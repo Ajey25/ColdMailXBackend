@@ -152,4 +152,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Contact Us
 
 -   **Email:** [coldmailx512@gmail.com](mailto:coldmailx512@gmail.com)
--   **LinkedIn: https://www.linkedin.com/in/ritesh-prajapati-918b6a205/**
+-   **LinkedIn: https://www.linkedin.com/in/ajay-prajapati-4912981b3/**
